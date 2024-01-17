@@ -1,4 +1,4 @@
-<h2>
+<h3>
 
 Este código em Python solicita ao usuário que forneça seu endereço de e-mail, garantindo que não haja espaços em branco antes ou depois do texto. Em seguida, ele extrai o nome de usuário e o domínio do e-mail, fornecendo uma análise simples da estrutura do endereço eletrônico.
 
@@ -8,11 +8,11 @@ Essa funcionalidade pode ser útil em diversas situações, como em processos de
 
 Caso haja alguma dúvida ou sugestão de melhoria, estou à disposição para discutir e ajustar conforme necessário.
   
-</h2>
+</h3>
 
 
 
-<h2>
+<h3>
 
 
 This Python code prompts the user to enter their email address, ensuring there are no leading or trailing spaces in the input. It then extracts the username and domain from the email, providing a straightforward analysis of the email address structure.
@@ -23,4 +23,4 @@ This functionality can prove valuable in various scenarios, such as during authe
 
 Should there be any questions or suggestions for improvement, I am available for further discussion and adjustments as needed.
   
-</h2>
+</h3>
